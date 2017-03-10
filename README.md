@@ -9,3 +9,6 @@ gcc
 
 # PS
 This program is poorly coded. This repository is for you to understand how lex and yacc works. 
+
+# PPS
+This project supports a partion of the C syntax. And some syntax you have never seen before.
